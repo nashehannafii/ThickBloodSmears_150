@@ -1,0 +1,13 @@
+12,4032,3024
+4-1,Parasite,No_Comment,Circle,2,2214.95,2753.9,2222.25,2775.95
+4-10,White_Blood_Cell,No_Comment,Point,1,2631.65,2039.35
+4-11,White_Blood_Cell,No_Comment,Point,1,2261.75,2003
+4-12,White_Blood_Cell,No_Comment,Point,1,982.35,2190.95
+4-2,White_Blood_Cell,No_Comment,Point,1,2898.4,802.4
+4-3,White_Blood_Cell,No_Comment,Point,1,2886.3,887.3
+4-4,White_Blood_Cell,No_Comment,Point,1,2734.7,1287.5
+4-5,White_Blood_Cell,No_Comment,Point,1,2668,1366.3
+4-6,White_Blood_Cell,No_Comment,Point,1,2104.1,1287.5
+4-7,White_Blood_Cell,No_Comment,Point,1,1461.35,529.55
+4-8,White_Blood_Cell,No_Comment,Point,1,3128.85,1869.6
+4-9,White_Blood_Cell,No_Comment,Point,1,2777.15,2221.25

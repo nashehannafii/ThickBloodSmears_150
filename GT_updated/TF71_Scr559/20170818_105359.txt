@@ -1,0 +1,12 @@
+11,4032,3024
+13-1,White_Blood_Cell,No_Comment,Point,1,2754.15,543.85
+13-10,White_Blood_Cell,No_Comment,Point,1,1953.95,2719.25
+13-11,White_Blood_Cell,No_Comment,Point,1,1002.35,2269.5
+13-2,White_Blood_Cell,No_Comment,Point,1,2680.95,507.2
+13-3,White_Blood_Cell,No_Comment,Point,1,2597.15,1155.65
+13-4,White_Blood_Cell,No_Comment,Point,1,2027.15,1511.25
+13-5,White_Blood_Cell,No_Comment,Point,1,1431,1406.65
+13-6,White_Blood_Cell,No_Comment,Point,1,1138.3,1124.3
+13-7,White_Blood_Cell,No_Comment,Point,1,2911.05,1772.7
+13-8,White_Blood_Cell,No_Comment,Point,1,2654.8,1783.2
+13-9,White_Blood_Cell,No_Comment,Point,1,2628.7,1872.1

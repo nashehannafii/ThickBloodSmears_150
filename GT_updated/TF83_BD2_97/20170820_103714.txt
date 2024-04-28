@@ -1,0 +1,16 @@
+15,4032,3024
+12-2,Parasite,schizont,Circle,2,1643.45,2102.75,1646.4,2129.45
+12-3,Parasite,No_Comment,Circle,2,1696.8,1907.2,1699.75,1925.1
+12-10,White_Blood_Cell,No_Comment,Point,1,1030.4,1365.7
+12-11,White_Blood_Cell,No_Comment,Point,1,2642.65,1165.7
+12-12,White_Blood_Cell,No_Comment,Point,1,3139.7,1066.75
+12-13,White_Blood_Cell,No_Comment,Point,1,1963.8,1794.1
+12-14,White_Blood_Cell,No_Comment,Point,1,2557.8,2014.3
+12-15,White_Blood_Cell,No_Comment,Point,1,2745.7,2050.65
+12-16,White_Blood_Cell,No_Comment,Point,1,2388.1,2717.35
+12-17,White_Blood_Cell,No_Comment,Point,1,1430.45,2505.25
+12-18,White_Blood_Cell,No_Comment,Point,1,1036.45,2377.95
+12-6,White_Blood_Cell,No_Comment,Point,1,1200.1,527.3
+12-7,White_Blood_Cell,No_Comment,Point,1,1030.4,941.45
+12-8,White_Blood_Cell,No_Comment,Point,1,1212.25,1044.45
+12-9,White_Blood_Cell,No_Comment,Point,1,1121.3,1365.7

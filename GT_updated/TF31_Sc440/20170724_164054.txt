@@ -1,0 +1,16 @@
+15,4032,3024
+6-1,Parasite,No_Comment,Circle,2,2319.55,822.7,2313.35,853.7
+6-2,Parasite,No_Comment,Circle,2,1655.95,1066.75,1662.15,1103.95
+6-3,Parasite,No_Comment,Circle,2,1693.15,1265.25,1717.9,1294.2
+6-4,Parasite,No_Comment,Circle,2,2877.75,1445.1,2883.9,1482.3
+6-5,Parasite,No_Comment,Circle,2,2530.4,2294.75,2530.4,2325.75
+6-6,Parasite,No_Comment,Circle,2,1469.85,1690.95,1476.05,1713.7
+6-10,White_Blood_Cell,No_Comment,Point,1,2913.45,2554.4
+6-11,White_Blood_Cell,No_Comment,Point,1,2287.7,1781.7
+6-12,White_Blood_Cell,No_Comment,Point,1,1979.9,2233.05
+6-13,White_Blood_Cell,No_Comment,Point,1,1897.85,560.9
+6-14,White_Blood_Cell,No_Comment,Point,1,1754.25,482.15
+6-15,White_Blood_Cell,No_Comment,Point,1,1056.65,1597.05
+6-7,White_Blood_Cell,No_Comment,Point,1,3652.05,1354.15
+6-8,White_Blood_Cell,No_Comment,Point,1,3508.45,1436.2
+6-9,White_Blood_Cell,No_Comment,Point,1,3457.15,1867.1
